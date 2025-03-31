@@ -3,14 +3,12 @@
 
 secrets = {
     'ExplorerWiFi' : 'Explorer1234',
-   'Fios-ZPHHI' : 'habit04flag880bury', 
-#   'ZGuest' : 'ZD510-HCxx',
-#    'Explore1' : 'Explorers',
+    'WiFi Username' : 'Wifi Password', # edit this
     'timezone' : "America/New_York", # http://worldtimeapi.org/timezones
     'github_token' : 'fawfj23rakjnfawiefa',
     'hackaday_token' : 'h4xx0rs3kret',
-    'aio_username' : 'bharathdr84',
-    'aio_key' : 'aio_VTxH51o6uauxXX2BWFcrcwrVFkC2',
+    'aio_username' : 'username', # you need to make an account on the website
+    'aio_key' : 'key',
     'broker' : 'io.adafruit.com',
     'port' : 1883  # Default MQTT port
 }
