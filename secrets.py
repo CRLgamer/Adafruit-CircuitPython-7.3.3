@@ -8,7 +8,7 @@ secrets = {
     'github_token' : 'fawfj23rakjnfawiefa',
     'hackaday_token' : 'h4xx0rs3kret',
     'aio_username' : 'username', # you need to make an account on the website
-    'aio_key' : 'key',
+    'aio_key' : 'key', # and get your key
     'broker' : 'io.adafruit.com',
     'port' : 1883  # Default MQTT port
 }
