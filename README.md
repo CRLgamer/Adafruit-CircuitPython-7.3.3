@@ -59,6 +59,19 @@ term storage and analysis.
 Check out some of the cool new sensors, ADCs, DSPs, and microcontrollers
 that are available to makers and engineers at https://www.analog.com/
 
+<strong>Thank you Digi-Key!</strong>
+
+This product could not have happened with out the amazing support 
+and sponsorship from Digi-Key Electronics (https://www.digikey.com/)
+
+From design, to components, to fulfillment, they were a key contributor
+in getting the PyPortal into your hands.
+
+If you're a beginner or an expert, check out all the latest components,
+sensors, and developer kits available at https://www.digikey.com/
+
+<strong></strong>
+
 # Features:
 - Detects moisture.
 
