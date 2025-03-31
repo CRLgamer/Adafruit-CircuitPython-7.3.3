@@ -76,6 +76,6 @@ sensors, and developer kits available at https://www.digikey.com/
 - Detects moisture.
 
 # Deployment
-> Specific parts needed to make this work, idk what.
+> Specific parts needed to make this work, idk what. I use Thonny. You need to add the fonts and lib folders for this, I may put it into another respiratory.
 
 <h1 align="center">Enjoy!</h1>
